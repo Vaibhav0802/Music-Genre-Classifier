@@ -17,15 +17,10 @@ Final Accuracy : 94.29 %
 
 
 Input/Output :
-
 Input : Song
-
 Output : Genre ('blues', 'classical', 'country', 'disco', 'hiphop', 'jazz','metal', 'pop', 'reggae', 'rock')
-
 For ex :
-
 Input : Badfella by Sidhu Moosewala
-
 Output : HipHop
 
 
